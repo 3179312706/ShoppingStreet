@@ -1,0 +1,2 @@
+# shoppingstreet
+A mall applet
